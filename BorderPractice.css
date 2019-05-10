@@ -1,0 +1,35 @@
+/*
+* Name
+* Due Date
+* project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Body attributes here */
+
+body {
+}
+
+p, h1 {
+    border:5px dotted black; 
+    margin: 15px;
+    padding: 15px;
+}
+
+main {
+    border:5px solid black;
+    padding: 5px;
+    padding-top: 30px
+}
+
+body {
+    border:5px dotted black;
+    padding: 20px;
+    margin: 10px
+}
